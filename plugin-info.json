@@ -1,0 +1,17 @@
+{
+    "name": "Unique Waterontharders",
+    "version": "0.2.4",
+    "slug": "unique-waterontharders",
+    "download_url": "https://github.com/site-hosting/unique-waterontharders-updates/releases/download/v0.2.4/unique-waterontharders.zip",
+    "homepage": "https://sitehosting.nl",
+    "author": "Site Hosting",
+    "requires": "6.0",
+    "tested": "6.7",
+    "requires_php": "8.0",
+    "last_updated": "2026-08-21 08:53:33",
+    "sections": {
+        "description": "<p>Deze plugin voegt een eigen widgetcategorie &quot;Unique Waterontharders&quot; toe aan de\nElementor-editor. Elementor moet geïnstalleerd en geactiveerd zijn: activeren zonder\nElementor wordt geweigerd, en als Elementor later wordt uitgeschakeld toont de plugin\neen melding in het adminpaneel in plaats van widgets te registreren.</p>\n<p>Meegeleverde widgets:</p>\n<ul>\n<li><strong>Waarom</strong> — titel plus een herhaalbare lijst met items (afbeelding, titel en\ntekst per item). Weergave volgt nog.</li>\n</ul>\n<p>Maatwerk voor Unique Waterontharders, geen open source. Alle rechten voorbehouden;\nzie LICENSE.txt voor de voorwaarden.</p>",
+        "installation": "<ol>\n<li>Upload de plugin naar <code>/wp-content/plugins/unique-waterontharders</code>.</li>\n<li>Zorg dat Elementor geïnstalleerd en geactiveerd is.</li>\n<li>Activeer de plugin via het 'Plugins'-menu in WordPress.</li>\n</ol>",
+        "changelog": "<h4>0.2.4</h4>\n<ul>\n<li>Updater fixes ivm rate limits van github</li>\n</ul>\n<h4>0.2.3</h4>\n<ul>\n<li>USP testblock weg, licentie gefixed</li>\n</ul>\n<h4>0.2.2</h4>\n<ul>\n<li>Auto update fixes, readme toegevoegd</li>\n</ul>\n<h4>0.2.1</h4>\n<ul>\n<li>Auto update fixes</li>\n</ul>\n<h4>0.2.0</h4>\n<ul>\n<li>Waarom widget toegevoegd, fluid design</li>\n</ul>\n<h4>0.1.2</h4>\n<ul>\n<li>auto release fixes</li>\n</ul>\n<h4>0.1.1</h4>\n<ul>\n<li>Start van de plugin, support voor auto-updates</li>\n</ul>\n<h4>0.1.0</h4>\n<ul>\n<li>Eerste versie: plugin-scaffold, verplichte Elementor-check bij activering en de USP Box widget.</li>\n<li>Auto-updates via een publieke releases-repo (plugin-update-checker); broncode blijft in een aparte privé-repo.</li>\n<li><code>bin/release</code> (Node) voor het uitbrengen van een versie (bump, commit, tag, push, releaselink).</li>\n</ul>"
+    }
+}
