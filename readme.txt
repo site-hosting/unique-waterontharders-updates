@@ -4,9 +4,8 @@ Tags: elementor
 Requires at least: 6.0
 Tested up to: 6.7
 Requires PHP: 8.0
-Stable tag: 0.2.2
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 0.2.3
+License: Proprietary - alle rechten voorbehouden, zie LICENSE.txt
 
 Definieert eigen Elementor-widgets voor Unique Waterontharders.
 
@@ -19,8 +18,6 @@ een melding in het adminpaneel in plaats van widgets te registreren.
 
 Meegeleverde widgets:
 
-* **USP Box** — icoon, titel en beschrijving, bijvoorbeeld voor het uitlichten van
-  productvoordelen zoals "Geen zout nodig" of "5 jaar garantie".
 * **Waarom** — titel plus een herhaalbare lijst met items (afbeelding, titel en
   tekst per item). Weergave volgt nog.
 
@@ -32,9 +29,11 @@ Meegeleverde widgets:
 
 == Changelog ==
 
+= 0.2.3 =
+* USP testblock weg, licentie gefixed
+
 = 0.2.2 =
 * Auto update fixes, readme toegevoegd
-* ]
 
 = 0.2.1 =
 * Auto update fixes
